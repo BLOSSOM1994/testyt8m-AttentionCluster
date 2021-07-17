@@ -1,13 +1,17 @@
 # testyt8m-AttentionCluster
-
+<p dir='rlt'>
 فاز 1-پیش پردازش
+	</br>
 برای دانلود داده ها 2 راه دارید :
+</br>
 1-	از درایو من دانلود کنید.
+</br>
 https://drive.google.com/drive/folders/1BSdl7flgq5aNGBCh7issM3lHjiIyb-ri?usp=sharing
-
+</br>
 2-	کد yt8M_tensorflow.ipynb که پیوست شده را اجرا کنید.
-
+</br>
 مسیر فایل ها در سیستم من به این شکل بوده:
+</br>
 C:\Users\FJ\Downloads\GithubPonisha\yt8m
 					|
 					|
@@ -27,12 +31,12 @@ C:\Users\FJ\Downloads\GithubPonisha\yt8m
 						|-----youtube-9m
 							|
 							|------train.py
-
+</br>
 سپس کد و داده ها را به شکلی که در بالا گفته شده پوشه بندی کنید
 سپس بر اساس ادرس لپتاپ خودتان ادرس هارو تغییر بدید
 پس از تغییر آدرس ها
 (شما مسیر های قرمز شده را باید بر اساس سیستم خودتان تغییر دهید و مابقی مسیر ها به همان شکل باقی بمانند.) 
-
+</br>
 این دستورات را در محیط ترمینال ژوپیتر نوت بوک خودتان وارد کنید به ترتیب ( در عکس  how to run terminal پیوست شده نشان داده شده چگونه ترمینال خود را فعال کنید.)
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
